@@ -1,0 +1,29 @@
+img {
+    width: 100%;
+}
+
+.card {
+    display: flex;
+    padding: 20px;
+    width: 250px;
+    border-radius: 10px;
+    flex-direction: column;
+    text-align: left;
+    justify-content: space-between;
+    color: #000;
+    background-color: #fff;
+}
+
+.title {
+    font-size: 14px;
+}
+
+.price {
+    font-size: 10px;
+}
+
+button div {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
